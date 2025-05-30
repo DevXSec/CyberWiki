@@ -22,3 +22,6 @@ Link for a site that regroups latest actualities for the Cyber World: https://cy
 
 ## Technical watch
 Useful site to OpenSource vulnerabilities database and other useful tools: https://security.snyk.io/
+
+## Hacking Articles
+https://www.hackingarticles.in/
