@@ -25,3 +25,6 @@ Useful site to OpenSource vulnerabilities database and other useful tools: https
 
 ## Hacking Articles
 https://www.hackingarticles.in/
+
+## OSINT
+https://osintframework.com/
